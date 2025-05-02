@@ -1,0 +1,14 @@
+# blender_manifest.toml
+schema_version = "1.0.0"
+id = "lock_selection"
+name = "Lock Selection"
+tagline = "This is another extension"
+version = "1.14.0"
+supported_version = "4.2"
+type = "add-on"
+maintainer = "Krasnoselskiy Vladimir"
+tags = ["selection", "edit mode", "utilities"]
+blender_version_min = "4.2.0"
+license = ["SPDX:GPL-3.0-or-later"]
+description = "Locks selection changes for each object individually."
+repository = "https://github.com/Mejgan4ik/lock-selection-blender-addon"
