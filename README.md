@@ -38,3 +38,13 @@ The locked state is saved per-object basis, so you can have different locked sel
 2. Select vertices, edges or faces
 3. Press `Alt+K` to lock selection
 4. Try selecting other elements → The selection will revert back
+
+## 🤝 Contributions
+Contributions are welcome! Fork, make your changes and open a PR.
+
+## 📬 Contact
+Vladimir Krasnoselskiy
+Email: krasnoselskiy_v@mail.ru
+
+## My telegram chanell
+https://t.me/Krasnoselskiy_CG
